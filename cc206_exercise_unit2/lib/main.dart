@@ -1,4 +1,6 @@
 // {Car Torres}: {"If life gives you lemons, make a lemonade"}
+// {Joshua Escueta}: {"it doesn't matter how slowly you go, as long as you don't stop"}
+
 import 'package:flutter/material.dart';
 
 void main() {
